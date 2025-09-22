@@ -24,8 +24,9 @@ OpenWeatherMap API – Fetch live weather data
 
 📸 Screenshots
 <img width="1833" height="810" alt="Screenshot 2025-09-23 011404" src="https://github.com/user-attachments/assets/3f259d90-4918-4748-9637-ddc8aeb2e93e" />
-<img width="1833" height="810" alt="Screenshot 2025-09-23 011404" src="https://github.com/user-attachments/assets/6f268608-75d5-426b-bd3c-131c0f4c66f5" />
-<img width="1833" height="810" alt="Screenshot 2025-09-23 011404" src="https://github.com/user-attachments/assets/847db379-eb92-440c-8bcc-ffdcdca1a88d" />
+<img width="1562" height="829" alt="Screenshot 2025-09-23 011246" src="https://github.com/user-attachments/assets/48a6e3f7-d5a9-423d-89c5-5c28eecc354e" />
+<img width="1775" height="826" alt="Screenshot 2025-09-23 011345" src="https://github.com/user-attachments/assets/2ca53daf-f413-4958-933e-0641387655cd" />
+
 
 🌐Deployment
 https://happyjourney1.netlify.app/
